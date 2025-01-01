@@ -1,0 +1,48 @@
+
+/*Google Fonts*/
+
+
+/*Normalize*/
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+/*Variables*/
+:root
+{
+
+/*colores*/
+--alfa:#E7BCDE;
+
+/* Gradientes*/
+
+/*fuentes*/
+}
+/* Animaciones
+@Keyframes nombre de la animación 
+{ 0% { /* indica las transformaciones que se producen en el objeto. Se repite las veces que se desee*/
+
+a
+{
+Text-decoration:none;
+Color:black;
+}
+
+ul,ol
+{
+List-style-type:none;
+}
+body
+{
+    background: var(--alfa);
+}
+
+header
+{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 30px;
+   
+}
+

@@ -1,0 +1,1 @@
+Este archivo muestra 4 ejercicios sencillos en JavaScript. ¡ Ojalá te sirva !
