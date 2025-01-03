@@ -1,5 +1,5 @@
 /* Tarea 1 */
-/*const miNombre = prompt( `Escribí tu nombre, por favor`);
+const miNombre = prompt( `Escribí tu nombre, por favor`);
 function Hola()
 {
     console.log(`¡ Hola, ${miNombre} !.¿ cómo estás ? `)
@@ -7,7 +7,7 @@ function Hola()
 Hola();
 console.log( ` Te presentamos nuestra nueva calculadora `);
 let N1 = parseInt (prompt( `Ingresá un número cualquiera`));/* parseInt transforma a las variables N1-N2 en numéricas, dado que por defecto son string y en la suma las concatena, no las suma*/
-/*let N2 = parseInt(prompt(`Ingresá otro número`));
+let N2 = parseInt(prompt(`Ingresá otro número`));
 
 const suma=(N1, N2) => console.log(N1 + N2);
 
@@ -25,15 +25,15 @@ let resultado2 = calculadora ( N1,resta,N2);
 console.log(`También te presentamos una multiplicación:`);
 let resultado3 = calculadora ( N1,producto,N2);
 console.log(`... y una división.`);
-let resultado4 = calculadora ( N1,divi,N2);*/
+let resultado4 = calculadora ( N1,divi,N2);
 /* Tarea 2*/
-/*function saludo()
+function saludo()
 {
     console.log(` ¡ Buenos días !`);
 
 }
 saludo();
-*/
+
 /* Tarea 3 */
 const usuario = prompt( `¿ cómo te llamás ?`);
 console.log( `¡ Hola, ${usuario}! Te presentamos el último modelo de Tablet con sus características.`);
@@ -63,7 +63,7 @@ tablet.presentaPropiedades();
 
 
 /* Bucle For */
-/*const electrodomésticos = [`ventilador a motor`,`licuadora a motor`,`televisor inalámbrico`,
+const electrodomésticos = [`ventilador a motor`,`licuadora a motor`,`televisor inalámbrico`,
 
 `teléfono inalámbrico`,`heladera a motor`,`rasuradora a motor`];
 for(let i = 0; i < 6;i++)
@@ -72,4 +72,4 @@ for(let i = 0; i < 6;i++)
     {
         console.log(electrodomésticos[i]);
     }
-}*/
+}
